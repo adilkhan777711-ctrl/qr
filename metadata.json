@@ -1,0 +1,6 @@
+{
+  "name": "QRify – Smart QR Code Generator",
+  "description": "Create, customize, and download scannable QR codes in seconds. Real-time preview, vector SVG & 4K PNG export, custom colors, logos, and dot styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
